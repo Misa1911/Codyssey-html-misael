@@ -1,13 +1,46 @@
-/* *{
+*{
     /* propiedades_css */
-    border: red solid 5px;
+    border: rgb(0, 183, 255) solid 5px;
     margin: 0;
-    padding: 0;
-
-    }
+    padding: 0px;
     
-    p {
+}
+    
+p {
         /* propiedades_css */
         font-size: 20px;
-        color: red;
-    }
+        color: rgb(111, 0, 255);
+        font-family: 'Ma Shan Zheng', cursive;
+}
+
+h2 {
+        color: blue;
+        font-size: 40px;
+}
+
+h3   {
+        color: rgb(0, 255, 34);
+        font-size: 30px; 
+        font-family: 'Inconsolata', monospace;
+}
+
+p span {
+     color: red; }
+
+
+.destacado {
+    color: red;
+    font-size: 23px;
+    border: solid red;
+}
+
+
+
+
+#resaltado{
+    color: rgb(255, 196, 0);
+    font-size: 20px;
+    font-family: 'Indie Flower';
+    
+}
+
